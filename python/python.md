@@ -24,6 +24,10 @@ En el siguiente taller el participante podrá ser capaz de escribir un código e
 	* Sentencias Condicionales
 	* Bucles
 
+* Entrada y Salida
+	* Entrada estándar
+	* Parámetros de linea de comandos
+
 * Funciones
 
 * Archivos .py
